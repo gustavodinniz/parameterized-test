@@ -1,0 +1,4 @@
+fromAccount,toAccount,amount,expected
+123456,654321,100.00,true
+123456,654321,2000.00,false
+654321,123456,500.00,true
